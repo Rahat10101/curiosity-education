@@ -1,0 +1,50 @@
+[
+    {
+      "_id": "1",
+      "name": "MIT Scratch",
+      "about": "Scratch is a free programming language and online community where you can create your own interactive stories, games, and animations.",
+      "picture": "/images/1.jpg"
+    },
+    {
+      "_id": "2",
+      "name": "Programming in C",
+      "about": "C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on.",
+      "picture": "/images/2.jpg"
+    },
+    {
+      "_id": "3",
+      "name": "Programming in C++",
+      "about": "C++ is a powerful general-purpose programming language. It can be used to develop operating systems, browsers, games, and so on. C++ supports different ways of programming like procedural, object-oriented, functional, and so on. This makes C++ powerful as well as flexible.",
+      "picture": "/images/3.jpg"
+    },
+    {
+      "_id": "4",
+      "name": "Learn JAVA",
+      "about": "Java is a powerful general-purpose programming language. It is used to develop desktop and mobile applications, big data processing, embedded systems, and so on. According to Oracle, the company that owns Java, Java runs on 3 billion devices worldwide, which makes Java one of the most popular programming languages.",
+      "picture": "/images/4.jpg"
+    },
+    {
+      "_id": "5",
+      "name": "Python শিখে হয়ে উঠুন নাগিন",
+      "about": "Python is a powerful general-purpose programming language. It is used in web development, data science, creating software prototypes, and so on.",
+      "picture": "/images/5.jpg"
+    },
+    {
+      "_id": "6",
+      "name": "Data Structure and Algorithm in C++ (STL)",
+      "about": "A data structure is a named location that can be used to store and organize data. And, an algorithm is a collection of steps to solve a particular problem. Learning data structures and algorithms allow us to write efficient and optimized computer programs.",
+      "picture": "/images/6.jpg"
+    },
+    {
+        "_id": "7",
+        "name": "Machine Learning",
+        "about": "Machine learning (ML) is a type of artificial intelligence (AI) that allows software applications to become more accurate at predicting outcomes without being explicitly programmed to do so. ",
+        "picture": "/images/7.jpg"
+      },
+    {
+        "_id": "8",
+        "name": "VANET",
+        "about": "A vehicular ad hoc network (VANET) consists of groups of moving or stationary vehicles connected by a wireless network. Until recently the main use of VANETs was to provide safety and comfort to drivers in vehicular environments.",
+        "picture": "/images/8.jpg"
+      }
+  ]
